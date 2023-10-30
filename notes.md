@@ -1,0 +1,8 @@
+- npm init
+- add type: module to package.json
+- npm install express
+- npm install pg
+- git init
+- git add -A
+- git commit -m "initial commit"
+- make new repo on github and follow set-origin directions
